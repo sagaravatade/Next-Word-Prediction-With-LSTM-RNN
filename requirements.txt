@@ -1,4 +1,4 @@
-Python 3.11.7
+Python=3.11.7
 tensorflow==2.15.0
 pandas
 numpy
